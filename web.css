@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+    background: url('https://img.freepik.com/free-vector/kid-with-speech-bubble-templates-white-background_1308-93672.jpg?size=626&ext=jpg&ga=GA1.1.1518270500.1717200000&semt=ais_user') no-repeat center center fixed;
+    background-size:95% auto; 
+    background-color: #f0f0f0; 
+    color: black;
+   
+}
+p {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #220318;
+}
+#msg {
+        font-size: 20px;
+        font-weight: bold;
+        color: #ff0000;
+        background-color: rgba(255, 255, 255, 0.8); 
+        
+}
+button {
+    padding: 7px 13px;
+    font-size: 16px;
+    color: white;
+    background-color: #0bc8a2;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+button:hover {
+    background-color: #0056b3;
+}
+h2 {
+    font-size: 2.5em; 
+    color: #ffffff; 
+    text-shadow: 2px 2px 4px rgba(17, 1, 1, 0.6); 
+    margin: 20px 0; 
+    text-align: center;
+}
